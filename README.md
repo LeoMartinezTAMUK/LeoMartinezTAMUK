@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leomartineztamuk&label=Profile%20views&color=0e75b6&style=flat" alt="leomartineztamuk" /> </p>
 
-- 🔭 I’m currently working on [Placeholder](placeholderlink)
+- 🔭 Profile README is currently under developement!
 
 - 🌱 I’m currently learning **Kubernetes, React, and Flask**
 
