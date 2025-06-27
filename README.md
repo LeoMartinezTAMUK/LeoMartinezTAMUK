@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there my name is Leo 👋
+I am very passionate about computer science, especially in the fields of Cybersecurity and Artificial Intelligence!
 
 <!--
 **LeoMartinezTAMUK/LeoMartinezTAMUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
