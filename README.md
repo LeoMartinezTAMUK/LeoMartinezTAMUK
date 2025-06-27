@@ -5,6 +5,8 @@
 
 - 🔭 Profile README is currently under developement!
 
+- ⚙️ Primary Skills: Machine/Deep Learning, Cybersecurity, Cloud Computing, Unix/Windows Terminal
+
 - 🌱 I’m currently learning **Kubernetes, React, and Flask**
 
 - 📫 Personal Professional Email: **mtz3.leo@gmail.com**
