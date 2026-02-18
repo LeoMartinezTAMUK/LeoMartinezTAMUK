@@ -7,7 +7,7 @@
 
 - ⚙️ Primary Skills: Artificial Intelligence (e.g., Machine/Deep Learning), Software Development, Cybersecurity, Cloud Computing, Unix/Windows Terminal
 
-- 🌱 I’m currently learning **Kubernetes, React, and Flask**
+- 🌱 I’m currently learning **CompTIA CySA+**
 
 - 📫 Personal Professional Email: **mtz3.leo@gmail.com**
 
