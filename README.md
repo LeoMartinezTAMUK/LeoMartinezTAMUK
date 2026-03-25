@@ -7,7 +7,7 @@
 
 - ⚙️ Primary Skills: Artificial Intelligence (e.g., Machine/Deep Learning), Software Development, Cybersecurity, Cloud Computing, Unix/Windows Terminal
 
-- 🌱 I’m currently learning **CompTIA CySA+**
+- 🌱 I’m currently learning more about **Agentic Systems**
 
 - 📫 Personal Professional Email: **mtz3.leo@gmail.com**
 
