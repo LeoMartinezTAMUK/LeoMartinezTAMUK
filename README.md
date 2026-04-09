@@ -5,7 +5,7 @@
 
 - 🔭 Profile README is currently under developement!
 
-- ⚙️ Primary Skills: Artificial Intelligence (e.g., Machine/Deep Learning), Software Development, Cybersecurity, Cloud Computing, Unix/Windows Terminal
+- ⚙️ Primary Skills: Artificial Intelligence (e.g., Machine/Deep Learning, LLMs, etc.), Software Development, Cybersecurity, Data Science, Cloud Computing, Bash Scripting
 
 - 🌱 I’m currently learning more about **Agentic Systems**
 
