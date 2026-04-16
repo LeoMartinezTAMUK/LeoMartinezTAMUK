@@ -11,5 +11,3 @@
 
 - 📫 Personal Professional Email: **mtz3.leo@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-
