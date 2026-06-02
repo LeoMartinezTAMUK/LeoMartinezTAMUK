@@ -7,7 +7,7 @@
 
 - ⚙️ Primary Skills: Artificial Intelligence (e.g., Machine/Deep Learning, LLMs, etc.), Software Development, Cybersecurity, Data Science, Cloud Computing, Bash Scripting
 
-- 🌱 I’m currently learning more about **Agentic Systems**
+- 🌱 I’m currently learning more about **Security in Agentic Systems**
 
 - 📫 Personal Professional Email: **mtz3.leo@gmail.com**
 
