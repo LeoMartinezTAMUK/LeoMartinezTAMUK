@@ -1,14 +1,14 @@
-# Hi, I'm Leo 👋
+# Hi, I'm Leo👋
 
-###c I'm an AI/LLM Security Engineer focused on securing AI systems and testing for vulnerabilities!
+### AI/LLM Security Engineer focused on cybersecurity, LLM evaluation, and AI-driven detection systems
 
-[Email](mailto:mtz3.leo@gmail.com) • [LinkedIn](https://www.linkedin.com/in/leo-martinez-iii/)
+Email: [mtz3.leo@gmail.com](mailto:mtz3.leo@gmail.com) | LinkedIn: [https://www.linkedin.com/in/leo-martinez-iii/](https://www.linkedin.com/in/leo-martinez-iii/)
 
 ---
 
 ## About Me
 
-I'm a Computer Science graduate with experience across **AI security, cybersecurity, software engineering, and machine learning research**. My work focuses on evaluating and building AI systems in security-focused environments, especially around **LLM behavior, adversarial testing, vulnerability discovery, and cyber reasoning**.
+I'm a former Computer Science graduate with experience across **AI security, cybersecurity, software engineering, and applied machine learning**. My work focuses on evaluating and building AI systems in security-focused environments, especially around **LLM behavior, adversarial testing, vulnerability discovery, and cyber reasoning**.
 
 Currently, I work on **AI/LLM security evaluations**, where I assess model behavior against jailbreaks, prompt injection, unsafe cyber outputs, sensitive information disclosure, and reasoning failures.
 
