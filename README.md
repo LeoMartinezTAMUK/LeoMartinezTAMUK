@@ -1,6 +1,6 @@
 # Hi, I'm Leo 👋
 
-### AI/LLM Security Engineer focused on cybersecurity, adversarial model evaluation, and AI-driven detection systems.
+###c I'm an AI/LLM Security Engineer focused on securing AI systems and testing for vulnerabilities!
 
 [Email](mailto:mtz3.leo@gmail.com) • [LinkedIn](https://www.linkedin.com/in/leo-martinez-iii/)
 
