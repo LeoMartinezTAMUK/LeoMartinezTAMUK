@@ -2,7 +2,7 @@
 
 ### AI/LLM Security Engineer focused on cybersecurity, adversarial model evaluation, and AI-driven detection systems.
 
-[Email](mailto:mtz3.leo@gmail.com) • [LinkedIn](https://www.linkedin.com/in/leo-martinez-iii/) • [GitHub](https://github.com/LeoMartinezTAMUK)
+[Email](mailto:mtz3.leo@gmail.com) • [LinkedIn](https://www.linkedin.com/in/leo-martinez-iii/)
 
 ---
 
@@ -21,16 +21,6 @@ Currently, I work on **AI/LLM security evaluations**, where I assess model behav
 - Cybersecurity-focused model behavior and failure analysis
 - AI-assisted software engineering and code repair
 - Network intrusion detection and applied machine learning
-
----
-
-## Featured Projects
-
-| Project | Focus |
-|---|---|
-| **Context-Constrained C++ Codebase AI Agent** | LLM-based code retrieval, context management, build/test automation, and compiler-error analysis |
-| **C2TGAN-NIDS** | AI-based network intrusion detection using CNNs, GAN balancing, and tabular-to-image transformation |
-| **ROSE-Bench** | Benchmarking autonomous LLM agents on C++ compiler repair tasks with Docker-based evaluation pipelines |
 
 ---
 
