@@ -1,4 +1,6 @@
-# Hi, I'm Leo👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leomartineztamuk&label=Profile%20views&color=0e75b6&style=flat" alt="leomartineztamuk" /> </p>
+
+# Hi, I'm Leo👋 
 
 ### AI/LLM Security Engineer focused on cybersecurity, LLM evaluation, and AI-driven detection systems
 
